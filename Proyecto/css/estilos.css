@@ -1,0 +1,215 @@
+body {
+  background-color: rgb(195, 227, 236);
+}
+
+.S1 {
+  background-color: rgb(96, 204, 110);
+  width: 1670px;
+  height: 75px;
+}
+.l1 {
+  margin-top: -5%;
+  margin-left: 11%;
+  color: rgb(51, 0, 236);
+  text-decoration: none;
+}
+.l2 {
+  margin-top: -2.4%;
+  margin-left: 26%;
+  color: rgb(255, 0, 149);
+  text-decoration: none;
+}
+.l3 {
+  margin-top: -2.4%;
+  margin-left: 30%;
+  color: rgb(255, 0, 0);
+  text-decoration: none;
+}
+.l4 {
+  margin-top: -2.4%;
+  margin-left: 35%;
+  color: rgb(217, 255, 0);
+  text-decoration: none;
+  text-decoration: none;
+}
+
+.S2 {
+  background-image: url("../Imagenes/Consultorio.jpg");
+  margin-top: 1%;
+  margin-left: 5.9%;
+  width: 1500px;
+  height: 400px;
+}
+.capa {
+  background-color: rgb(0, 0, 0, 0.75);
+  width: 1500px;
+  height: 400px;
+}
+h1 {
+  margin-left: 30%;
+}
+.buscar {
+  position: relative;
+  padding: 5px;
+}
+.buscar input {
+  float: left;
+  margin-top: -1%;
+  margin-left: 30%;
+  width: 240px;
+  height: 40px;
+  padding: 0 20px;
+  font-size: 18px;
+  color: black;
+  outline: none;
+  border: 1px solid silver;
+  border-radius: 30px;
+}
+.buscar1 input {
+  float: left;
+  margin-top: -2.7%;
+  margin-left: 50%;
+  width: 240px;
+  height: 40px;
+  padding: 0 20px;
+  font-size: 18px;
+  color: black;
+  outline: none;
+  border: 1px solid silver;
+  border-radius: 30px;
+}
+
+.boton {
+  float: left;
+  margin-top: -3.3%;
+  margin-left: 70%;
+  background-color: blue;
+  padding: 18px 25px;
+  color: rgb(245, 245, 245);
+  border: 1px solid silver;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+figure {
+  float: left;
+  margin-top: 5%;
+  margin-left: 10%;
+  position: relative;
+  height: 400px;
+  width: 600px;
+  border-radius: 10px;
+  box-shadow: 0px 10px 10px rgb(0, 0, 0, 0.75);
+}
+figure img {
+  width: 100%;
+  height: 100%;
+}
+.capa2 {
+  float: left;
+  margin-top: 5%;
+  margin-left: 3%;
+  background-color: rgb(195, 227, 236);
+  width: 700px;
+  height: 400px;
+}
+.p1 {
+  float: left;
+  margin-top: -2%;
+  margin-left: 40%;
+  color: black;
+}
+.capa3 {
+  float: left;
+  margin-top: 1%;
+  background-color: rgba(3, 192, 250, 0.75);
+  width: 1670px;
+  height: 100px;
+}
+.p2 {
+  margin-top: -2%;
+  text-align: center;
+}
+
+.capa4 {
+  float: left;
+  margin-top: -24%;
+  background-color: rgb(195, 227, 236);
+  width: 700px;
+  height: 400px;
+}
+
+figure2 {
+  float: left;
+  margin-top: 2%;
+  margin-left: 50%;
+  position: relative;
+  height: 400px;
+  width: 600px;
+  border-radius: 10px;
+  box-shadow: 0px 10px 10px rgb(0, 0, 0, 0.75);
+}
+figure2 img {
+  float: left;
+  width: 100%;
+  height: 100%;
+}
+
+figure3 {
+  float: left;
+  margin-top: 5%;
+  margin-left: 10%;
+  position: relative;
+  width: 1670px;
+  width: 600px;
+  border-radius: 10px;
+  box-shadow: 0px 10px 10px rgb(0, 0, 0, 0.75);
+}
+figure3 img {
+  width: 100%;
+  height: 100%;
+}
+.S6 {
+  float: left;
+  position: relative;
+  margin-top: 4%;
+  background-image: url("../Imagenes/imagen3.jpg");
+  width: 1670px;
+  height: 500px;
+}
+
+.capa5 {
+  float: left;
+  position: relative;
+  margin-top: 4%;
+  background-color: rgb(0, 0, 0);
+  width: 1670px;
+  height: 250px;
+}
+
+.l5 {
+  margin-top: -1%;
+  text-align: center;
+  color: rgb(0, 4, 236);
+  text-decoration: none;
+}
+
+.l6 {
+  margin-top: -1.5%;
+  text-align: center;
+  color: rgb(0, 255, 0);
+  text-decoration: none;
+}
+.l7 {
+  margin-top: -1.8%;
+  text-align: center;
+  color: rgb(255, 0, 0);
+  text-decoration: none;
+}
+.l8 {
+  margin-top: -1.9%;
+  text-align: center;
+  color: rgb(0, 255, 242);
+  text-decoration: none;
+  text-decoration: none;
+}
